@@ -30,8 +30,9 @@ Here is an excellent link to [How to run Jupyter Notebook](http://jupyter.readth
 ## This repository contains following files:
 - Dataset (Train and Test )
 
-     Criminal.train 
-     Criminal.text 
+     Criminal_train.csv
+     
+     Criminal_text.csv 
 
 - Graph
 
@@ -44,6 +45,17 @@ Here is an excellent link to [How to run Jupyter Notebook](http://jupyter.readth
      3 Predict the criminals with Bagging.ipynb
      
      4 Predict the Criminal with Ensemble Method.ipynb
+     
+     
+ - Notebook PDF (For visualization I uploaded PDF code of the solution)
+
+     1 Predict the Criminals with Normal approach.pdf
+     
+     2 Predict the Criminals with Feature Extraction.pdf
+     
+     3 Predict the criminals with Bagging.pdf
+     
+     4 Predict the Criminal with Ensemble Method.pdf  
      
      
 ## Solution 
